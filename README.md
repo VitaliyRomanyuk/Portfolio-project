@@ -5,4 +5,4 @@ https://surl.li/rsmsrr
 
 Основні метрики можна переглянути за допомогою дашборду у Tableau за посиланням https://surl.li/qidgdo
 
-Полилання на дашборд у файлі PDF https://surl.lu/zpochr
+Посилання на дашборд у файлі PDF https://surl.lu/zpochr
